@@ -1,8 +1,9 @@
 import discord
 from discord.ext import commands
-from constant import TOKEN
+from constants import TOKEN
 
 extensions = (
+    'template',
 )
 
 

@@ -4,6 +4,7 @@ from constants import TOKEN
 
 extensions = (
     'anonymous',
+    'template',
 )
 
 
